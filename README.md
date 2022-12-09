@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Itheriael
-- 👀 I’m interested in ...
+- 👀 I’m interested in making website
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Discord Bots
 - 📫 How to reach me contact@itheriael.com
