@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itheriael
 - 👀 I’m interested in making website
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 Cybersecurity Professional - Pentester / Redhat
 - 💞️ I’m looking to collaborate on Discord Bots
 - 📫 How to reach me contact@itheriael.com
 
