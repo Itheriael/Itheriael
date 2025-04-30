@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itheriael
 - 👀 I’m interested in making website
-- 🌱 Cybersecurity Professional - Pentester / Redhat
+- 🌱 Cybersecurity Professional - Pentester / Whitehat
 - 💞️ I’m looking to collaborate on Discord Bots
 - 📫 How to reach me contact@itheriael.com
 
